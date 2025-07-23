@@ -1,0 +1,461 @@
+{
+  "users": [
+    {
+      "name": "Greggory Godfrey",
+      "username": "gregxgod",
+      "email": "gregxxx@mail.com",
+      "password": "123123"
+    }
+  ],
+  "wishlist": [],
+  "products": [
+    {
+      "name": "TUFF Reflex Pro Tump",
+      "slug": "tuff-reflex-pro-tump",
+      "price": 249.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_scump_sabertooth_front_playstation_controller_750x750_2_1.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_scump_sabertooth_front_playstation_controller_750x750_2_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_scump_sabertooth_back_playstation_controller_750x750_2_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_scump_sabertooth_threequarters_playstation_controller_750x750_2_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_scump_sabertooth_witb_playstation_controller_750x750_2_1.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5-scuf-reflex-pro-scump-2025",
+      "description": "Introducing TUFF Reflex Pro, designed to live up to its name. With four removable & remappable rear paddles, three on-board configuration profiles, adaptive triggers, interchangable thumbsticks, and non-slip performance grip. With Reflex Pro, be unstoppable.",
+      "excerpt": "Premium gaming controller with removable paddles and adaptive triggers for competitive advantage.",
+      "tags": ["Reflex", "Pro"]
+    },
+    {
+      "name": "TUFF Reflex FPS Tump",
+      "slug": "tuff-reflex-fps-tump",
+      "price": 279.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_scump_sabertooth_front_playstation_controller_750x750_1_1.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_scump_sabertooth_front_playstation_controller_750x750_1_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_scump_sabertooth_back_playstation_controller_750x750_1_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_scump_sabertooth_threequarters_playstation_controller_750x750_1_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_scump_sabertooth_witb_playstation_controller_750x750_1_1.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5-scuf-reflex-fps-scump-2025",
+      "description": "The last piece of your arsenal. Four removable, remappable rear paddles, three on-board profiles, instant triggers, interchangeable thumbsticks, vibration modules removed and non-slip performance grip, the TUFF Reflex FPS gives you the ultimate competitive advantage.",
+      "excerpt": "Ultimate FPS gaming controller with instant triggers and vibration modules removed for peak performance.",
+      "tags": ["Reflex", "FPS"]
+    },
+    {
+      "name": "TUFF Reflex Pro Red & Black",
+      "slug": "tuff-reflex-pro-red-black",
+      "price": 229.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_blackandred_front_playstation_controller_750x750.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_blackandred_front_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_blackandred_back_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_blackandred_threequarters_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_blackandred_witb_playstation_controller_750x750.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5/scuf-reflex-pro-red-black",
+      "description": "Introducing TUFF Reflex Pro, designed to live up to its name. With four removable & remappable rear paddles, three on-board configuration profiles, adaptive triggers, interchangable thumbsticks, and non-slip performance grip. With Reflex Pro, be unstoppable.",
+      "excerpt": "Premium gaming controller with removable paddles and adaptive triggers for competitive advantage.",
+      "tags": ["Reflex", "Pro"]
+    },
+    {
+      "name": "TUFF Reflex Pro Black",
+      "slug": "tuff-reflex-pro-black",
+      "price": 229.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_black_front_playstation_controller_750x750_1.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_black_front_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_black_back_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_black_threequarters_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_black_witb_playstation_controller_750x750_1.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5/scuf-reflex-pro-black",
+      "description": "Introducing TUFF Reflex Pro, designed to live up to its name. With four removable & remappable rear paddles, three on-board configuration profiles, adaptive triggers, interchangable thumbsticks, and non-slip performance grip. With Reflex Pro, be unstoppable.",
+      "excerpt": "Premium gaming controller with removable paddles and adaptive triggers for competitive advantage.",
+      "tags": ["Reflex", "Pro"]
+    },
+    {
+      "name": "TUFF Reflex Pro Steel Gray",
+      "slug": "tuff-reflex-pro-steel-gray",
+      "price": 229.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_steel_grey_front_playstation_controller_750x750.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_steel_grey_front_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_steel_grey_back_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_steel_grey_threequarters_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_steel_grey_witb_playstation_controller_750x750.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5/scuf-reflex-pro-steelgray",
+      "description": "Introducing TUFF Reflex Pro, designed to live up to its name. With four removable & remappable rear paddles, three on-board configuration profiles, adaptive triggers, interchangable thumbsticks, and non-slip performance grip. With Reflex Pro, be unstoppable.",
+      "excerpt": "Premium gaming controller with removable paddles and adaptive triggers for competitive advantage.",
+      "tags": ["Reflex", "Pro"]
+    },
+    {
+      "name": "TUFF Reflex Pro White",
+      "slug": "tuff-reflex-pro-white",
+      "price": 229.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_white_front_playstation_controller_750x750_2_v2.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_white_front_playstation_controller_750x750_2_v2.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_white_back_playstation_controller_750x750_2_v2.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_white_threequarters_playstation_controller_750x750_3_v2.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_white_witb_playstation_controller_750x750_1_1.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5/scuf-reflex-pro-white",
+      "description": "Introducing TUFF Reflex Pro, designed to live up to its name. With four removable & remappable rear paddles, three on-board configuration profiles, adaptive triggers, interchangable thumbsticks, and non-slip performance grip. With Reflex Pro, be unstoppable.",
+      "excerpt": "Premium gaming controller with removable paddles and adaptive triggers for competitive advantage.",
+      "tags": ["Reflex", "Pro"]
+    },
+    {
+      "name": "TUFF Reflex Pro Blue",
+      "slug": "tuff-reflex-pro-blue",
+      "price": 229.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_blue_front_playstation_controller_750x750_1.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_blue_front_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_blue_back_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_blue_threequarters_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_blue_witb_playstation_controller_750x750_1.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5/scuf-reflex-pro-blue",
+      "description": "Introducing TUFF Reflex Pro, designed to live up to its name. With four removable & remappable rear paddles, three on-board configuration profiles, adaptive triggers, interchangable thumbsticks, and non-slip performance grip. With Reflex Pro, be unstoppable.",
+      "excerpt": "Premium gaming controller with removable paddles and adaptive triggers for competitive advantage.",
+      "tags": ["Reflex", "Pro"]
+    },
+    {
+      "name": "TUFF Reflex Pro Red",
+      "slug": "tuff-reflex-pro-red",
+      "price": 229.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_red_front_playstation_controller_750x750.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_red_front_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_red_back_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_red_threequarters_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_red_witb_playstation_controller_750x750.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5/scuf-reflex-pro-red",
+      "description": "Introducing TUFF Reflex Pro, designed to live up to its name. With four removable & remappable rear paddles, three on-board configuration profiles, adaptive triggers, interchangable thumbsticks, and non-slip performance grip. With Reflex Pro, be unstoppable.",
+      "excerpt": "Premium gaming controller with removable paddles and adaptive triggers for competitive advantage.",
+      "tags": ["Reflex", "Pro"]
+    },
+    {
+      "name": "TUFF Reflex Pro Orange",
+      "slug": "tuff-reflex-pro-orange",
+      "price": 229.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_orange_front_playstation_controller_750x750_1.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_orange_front_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_orange_back_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_orange_threequarters_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_orange_witb_playstation_controller_750x750_1.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5/scuf-reflex-pro-orange",
+      "description": "Introducing TUFF Reflex Pro, designed to live up to its name. With four removable & remappable rear paddles, three on-board configuration profiles, adaptive triggers, interchangable thumbsticks, and non-slip performance grip. With Reflex Pro, be unstoppable.",
+      "excerpt": "Premium gaming controller with removable paddles and adaptive triggers for competitive advantage.",
+      "tags": ["Reflex", "Pro"]
+    },
+    {
+      "name": "TUFF Reflex FPS Steel Gray",
+      "slug": "tuff-reflex-fps-steel-gray",
+      "price": 259.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_steel_grey_front_playstation_controller_750x750.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_steel_grey_front_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_steel_grey_back_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_steel_grey_threequarters_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_steel_grey_witb_playstation_controller_750x750.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5/scuf-reflex-fps-steelgray",
+      "description": "The last piece of your arsenal. Four removable, remappable rear paddles, three on-board profiles, instant triggers, interchangeable thumbsticks, vibration modules removed and non-slip performance grip, the TUFF Reflex FPS gives you the ultimate competitive advantage.",
+      "excerpt": "Ultimate FPS gaming controller with instant triggers and vibration modules removed for peak performance.",
+      "tags": ["Reflex", "FPS"]
+    },
+    {
+      "name": "TUFF Reflex FPS Light Gray",
+      "slug": "tuff-reflex-fps-light-gray",
+      "price": 259.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_lightgray_front_playstation_controller_750x750_1.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_lightgray_front_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_lightgray_back_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_lightgray_threequarters_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_lightgray_witb_playstation_controller_750x750_1.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5/scuf-reflex-fps-lightgray",
+      "description": "The last piece of your arsenal. Four removable, remappable rear paddles, three on-board profiles, instant triggers, interchangeable thumbsticks, vibration modules removed and non-slip performance grip, the TUFF Reflex FPS gives you the ultimate competitive advantage.",
+      "excerpt": "Ultimate FPS gaming controller with instant triggers and vibration modules removed for peak performance.",
+      "tags": ["Reflex", "FPS"]
+    },
+    {
+      "name": "TUFF Reflex FPS Blue",
+      "slug": "tuff-reflex-fps-blue",
+      "price": 259.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_blue_front_playstation_controller_750x750_1.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_blue_front_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_blue_back_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_blue_threequarters_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_blue_witb_playstation_controller_750x750_1.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5/scuf-reflex-fps-blue",
+      "description": "The last piece of your arsenal. Four removable, remappable rear paddles, three on-board profiles, instant triggers, interchangeable thumbsticks, vibration modules removed and non-slip performance grip, the TUFF Reflex FPS gives you the ultimate competitive advantage.",
+      "excerpt": "Ultimate FPS gaming controller with instant triggers and vibration modules removed for peak performance.",
+      "tags": ["Reflex", "FPS"]
+    },
+    {
+      "name": "TUFF Reflex FPS Red",
+      "slug": "tuff-reflex-fps-red",
+      "price": 259.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_red_front_playstation_controller_750x750_-_copy.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_red_front_playstation_controller_750x750_-_copy.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_red_back_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_red_threequarters_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_red_witb_playstation_controller_750x750_1.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5/scuf-reflex-fps-red",
+      "description": "The last piece of your arsenal. Four removable, remappable rear paddles, three on-board profiles, instant triggers, interchangeable thumbsticks, vibration modules removed and non-slip performance grip, the TUFF Reflex FPS gives you the ultimate competitive advantage.",
+      "excerpt": "Ultimate FPS gaming controller with instant triggers and vibration modules removed for peak performance.",
+      "tags": ["Reflex", "FPS"]
+    },
+    {
+      "name": "TUFF Reflex Pro Jankz",
+      "slug": "tuff-reflex-pro-jankz",
+      "price": 249.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_jankz_front_playstation_controller_750x750_1.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_jankz_front_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_jankz_back_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_jankz_threequarters_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_jankz_witb_playstation_controller_750x750_1.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5-scuf-reflex-pro-jankz",
+      "description": "Introducing TUFF Reflex Pro, designed to live up to its name. With four removable & remappable rear paddles, three on-board configuration profiles, adaptive triggers, interchangable thumbsticks, and non-slip performance grip. With Reflex Pro, be unstoppable.",
+      "excerpt": "Premium gaming controller with removable paddles and adaptive triggers for competitive advantage.",
+      "tags": ["Reflex", "Pro"]
+    },
+    {
+      "name": "TUFF Reflex FPS Jankz",
+      "slug": "tuff-reflex-fps-jankz",
+      "price": 279.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_jankz_front_playstation_controller_750x750_2.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_jankz_front_playstation_controller_750x750_2.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_jankz_back_playstation_controller_750x750_2.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_jankz_threequarters_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_jankz_witb_playstation_controller_750x750_1.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5-scuf-reflex-fps-jankz",
+      "description": "The last piece of your arsenal. Four removable, remappable rear paddles, three on-board profiles, instant triggers, interchangeable thumbsticks, vibration modules removed and non-slip performance grip, the TUFF Reflex FPS gives you the ultimate competitive advantage.",
+      "excerpt": "Ultimate FPS gaming controller with instant triggers and vibration modules removed for peak performance.",
+      "tags": ["Reflex", "FPS"]
+    },
+    {
+      "name": "TUFF Reflex Pro Aydan",
+      "slug": "tuff-reflex-pro-aydan",
+      "price": 249.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_aydan_front_playstation_controller_750x750_2.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_aydan_front_playstation_controller_750x750_2.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_aydan_back_playstation_controller_750x750_2.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_aydan_threequarters_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_aydan_witb_playstation_controller_750x750_1.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5-scuf-reflex-pro-aydan",
+      "description": "Introducing TUFF Reflex Pro, designed to live up to its name. With four removable & remappable rear paddles, three on-board configuration profiles, adaptive triggers, interchangable thumbsticks, and non-slip performance grip. With Reflex Pro, be unstoppable.",
+      "excerpt": "Premium gaming controller with removable paddles and adaptive triggers for competitive advantage.",
+      "tags": ["Reflex", "Pro"]
+    },
+    {
+      "name": "TUFF Reflex FPS Aydan",
+      "slug": "tuff-reflex-fps-aydan",
+      "price": 279.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_aydan_front_playstation_controller_750x750_1.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_aydan_front_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_aydan_back_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_aydan_threequarters_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_aydan_witb_playstation_controller_750x750_1.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5-scuf-reflex-fps-aydan",
+      "description": "The last piece of your arsenal. Four removable, remappable rear paddles, three on-board profiles, instant triggers, interchangeable thumbsticks, vibration modules removed and non-slip performance grip, the TUFF Reflex FPS gives you the ultimate competitive advantage.",
+      "excerpt": "Ultimate FPS gaming controller with instant triggers and vibration modules removed for peak performance.",
+      "tags": ["Reflex", "FPS"]
+    },
+    {
+      "name": "TUFF Reflex Pro Pamaj",
+      "slug": "tuff-reflex-pro-pamaj",
+      "price": 249.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_pamaj_front_playstation_controller_750x750_1.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_pamaj_front_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_pamaj_back_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_pamaj_threequarters_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_pamaj_witb_playstation_controller_750x750_1.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5-scuf-reflex-pro-pamaj",
+      "description": "Introducing TUFF Reflex Pro, designed to live up to its name. With four removable & remappable rear paddles, three on-board configuration profiles, adaptive triggers, interchangable thumbsticks, and non-slip performance grip. With Reflex Pro, be unstoppable.",
+      "excerpt": "Premium gaming controller with removable paddles and adaptive triggers for competitive advantage.",
+      "tags": ["Reflex", "Pro"]
+    },
+    {
+      "name": "TUFF Reflex FPS Pamaj",
+      "slug": "tuff-reflex-fps-pamaj",
+      "price": 279.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_pamaj_front_playstation_controller_750x750_2.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_pamaj_front_playstation_controller_750x750_2.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_pamaj_back_playstation_controller_750x750_2.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_pamaj_threequarters_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_pamaj_witb_playstation_controller_750x750_1.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5-scuf-reflex-fps-pamaj",
+      "description": "The last piece of your arsenal. Four removable, remappable rear paddles, three on-board profiles, instant triggers, interchangeable thumbsticks, vibration modules removed and non-slip performance grip, the TUFF Reflex FPS gives you the ultimate competitive advantage.",
+      "excerpt": "Ultimate FPS gaming controller with instant triggers and vibration modules removed for peak performance.",
+      "tags": ["Reflex", "FPS"]
+    },
+    {
+      "name": "TUFF Reflex Pro Skyrroz",
+      "slug": "tuff-reflex-pro-skyrroz",
+      "price": 249.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_skyrroz_front_playstation_controller_750x750_1.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_skyrroz_front_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_skyrroz_back_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_skyrroz_threequarters_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_skyrroz_witb_playstation_controller_750x750_1.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5-scuf-reflex-pro-skyrroz",
+      "description": "Introducing TUFF Reflex Pro, designed to live up to its name. With four removable & remappable rear paddles, three on-board configuration profiles, adaptive triggers, interchangable thumbsticks, and non-slip performance grip. With Reflex Pro, be unstoppable.",
+      "excerpt": "Premium gaming controller with removable paddles and adaptive triggers for competitive advantage.",
+      "tags": ["Reflex", "Pro"]
+    },
+    {
+      "name": "TUFF Reflex FPS Skyrroz",
+      "slug": "tuff-reflex-fps-skyrroz",
+      "price": 279.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_skyrroz_front_playstation_controller_750x750_2.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_skyrroz_front_playstation_controller_750x750_2.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_skyrroz_back_playstation_controller_750x750_2.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_skyrroz_threequarters_playstation_controller_750x750_2.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_skyrroz_witb_playstation_controller_750x750_1.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5-scuf-reflex-fps-skyrroz",
+      "description": "The last piece of your arsenal. Four removable, remappable rear paddles, three on-board profiles, instant triggers, interchangeable thumbsticks, vibration modules removed and non-slip performance grip, the TUFF Reflex FPS gives you the ultimate competitive advantage.",
+      "excerpt": "Ultimate FPS gaming controller with instant triggers and vibration modules removed for peak performance.",
+      "tags": ["Reflex", "FPS"]
+    },
+    {
+      "name": "TUFF Reflex Pro JoeWo",
+      "slug": "tuff-reflex-pro-joewo",
+      "price": 249.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_joewo_front_playstation_controller_750x750.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_joewo_front_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_joewo_back_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_joewo_threequarters_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_joewo_witb_playstation_controller_750x750.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5-scuf-reflex-pro-joewo",
+      "description": "Introducing TUFF Reflex Pro, designed to live up to its name. With four removable & remappable rear paddles, three on-board configuration profiles, adaptive triggers, interchangable thumbsticks, and non-slip performance grip. With Reflex Pro, be unstoppable.",
+      "excerpt": "Premium gaming controller with removable paddles and adaptive triggers for competitive advantage.",
+      "tags": ["Reflex", "Pro"]
+    },
+    {
+      "name": "TUFF Reflex FPS JoeWo",
+      "slug": "tuff-reflex-fps-joewo",
+      "price": 279.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_joewo_front_playstation_controller_750x750.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_joewo_front_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_joewo_back_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_joewo_threequarters_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_fps_joewo_witb_playstation_controller_750x750.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5-scuf-reflex-fps-joewo",
+      "description": "The last piece of your arsenal. Four removable, remappable rear paddles, three on-board profiles, instant triggers, interchangeable thumbsticks, vibration modules removed and non-slip performance grip, the TUFF Reflex FPS gives you the ultimate competitive advantage.",
+      "excerpt": "Ultimate FPS gaming controller with instant triggers and vibration modules removed for peak performance.",
+      "tags": ["Reflex", "FPS"]
+    },
+    {
+      "name": "TUFF Reflex Pro Sinapsis",
+      "slug": "tuff-reflex-pro-sinapsis",
+      "price": 249.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_sinapsis_front_playstation_controller_750x750_1.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_sinapsis_front_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_sinapsis_back_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_sinapsis_threequarters_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_sinapsis_witb_playstation_controller_750x750_1.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5-scuf-reflex-pro-sinapsis2022",
+      "description": "Introducing TUFF Reflex Pro, designed to live up to its name. With four removable & remappable rear paddles, three on-board configuration profiles, adaptive triggers, interchangable thumbsticks, and non-slip performance grip. With Reflex Pro, be unstoppable.",
+      "excerpt": "Premium gaming controller with removable paddles and adaptive triggers for competitive advantage.",
+      "tags": ["Reflex", "Pro"]
+    },
+    {
+      "name": "TUFF Reflex FPS Sinapsis",
+      "slug": "tuff-reflex-fps-sinapsis",
+      "price": 279.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_sinapsis_front_playstation_controller_750x750.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_sinapsis_front_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_sinapsis_back_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_sinapsis_threequarters_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_sinapsis_witb_playstation_controller_750x750.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5-scuf-reflex-fps-sinapsis2022",
+      "description": "The last piece of your arsenal. Four removable, remappable rear paddles, three on-board profiles, instant triggers, interchangeable thumbsticks, vibration modules removed and non-slip performance grip, the TUFF Reflex FPS gives you the ultimate competitive advantage.",
+      "excerpt": "Ultimate FPS gaming controller with instant triggers and vibration modules removed for peak performance.",
+      "tags": ["Reflex", "FPS"]
+    },
+    {
+      "name": "TUFF Reflex Pro IceManIsaac",
+      "slug": "tuff-reflex-pro-icemanisaac",
+      "price": 249.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_iceman_isaac_front_playstation_controller_750x750_2.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_iceman_isaac_front_playstation_controller_750x750_2.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_iceman_isaac_back_playstation_controller_750x750_2.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_iceman_isaac_threequarters_playstation_controller_750x750_2.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_iceman_isaac_witb_playstation_controller_750x750_2.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5-scuf-reflex-pro-icemanisaac2022",
+      "description": "Introducing TUFF Reflex Pro, designed to live up to its name. With four removable & remappable rear paddles, three on-board configuration profiles, adaptive triggers, interchangable thumbsticks, and non-slip performance grip. With Reflex Pro, be unstoppable.",
+      "excerpt": "Premium gaming controller with removable paddles and adaptive triggers for competitive advantage.",
+      "tags": ["Reflex", "Pro"]
+    },
+    {
+      "name": "TUFF Reflex FPS IceManIsaac",
+      "slug": "tuff-reflex-fps-icemanisaac",
+      "price": 279.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_iceman_isaac_front_playstation_controller_750x750_1.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_iceman_isaac_front_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_iceman_isaac_back_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_iceman_isaac_threequarters_playstation_controller_750x750_1.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_iceman_isaac_witb_playstation_controller_750x750_1.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5-scuf-reflex-fps-icemanisaac2022",
+      "description": "The last piece of your arsenal. Four removable, remappable rear paddles, three on-board profiles, instant triggers, interchangeable thumbsticks, vibration modules removed and non-slip performance grip, the TUFF Reflex FPS gives you the ultimate competitive advantage.",
+      "excerpt": "Ultimate FPS gaming controller with instant triggers and vibration modules removed for peak performance.",
+      "tags": ["Reflex", "FPS"]
+    },
+    {
+      "name": "TUFF Reflex Pro Daltoosh",
+      "slug": "tuff-reflex-pro-daltoosh",
+      "price": 249.99,
+      "thumbnail": "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_daltoosh_front_playstation_controller_750x750.png",
+      "images": [
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_daltoosh_front_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_daltoosh_back_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_daltoosh_threequarters_playstation_controller_750x750.png",
+        "https://scufgaming.com/media/catalog/product/cache/62b9f9c45840069c7c0d99900fb142d1/r/e/reflex_pro_daltoosh_witb_playstation_controller_750x750.png"
+      ],
+      "productLink": "https://scufgaming.com/int/playstation5-scuf-reflex-pro-daltoosh2022",
+      "description": "Introducing TUFF Reflex Pro, designed to live up to its name. With four removable & remappable rear paddles, three on-board configuration profiles, adaptive triggers, interchangable thumbsticks, and non-slip performance grip. With Reflex Pro, be unstoppable.",
+      "excerpt": "Premium gaming controller with removable paddles and adaptive triggers for competitive advantage.",
+      "tags": ["Reflex", "Pro"]
+    }
+  ]
+}
