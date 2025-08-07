@@ -56,7 +56,7 @@ Create a `.env.local` file in the root directory with the following variables:
 
 ```bash
 # Database
-MONGODB_URI=mongodb://localhost:27017/reeru-ai
+MONGODB_URI=your-mongodb-urii
 
 # Authentication
 JWT_SECRET=your-super-secret-jwt-key-here
