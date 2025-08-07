@@ -1,11 +1,12 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19935547&assignment_repo_type=AssignmentRepo)
+
 # Tuff Gaming
 
 An e-commerce website for a fictional gaming controller brand aimed at enthusiasts. Users can search for their favorite gamepads, add them to their wishlist, and explore products with advanced search, sorting, filtering, and infinite scroll pagination. A clone of the original Tuff Gaming website, this project showcases a modern tech stack and design principles.
 
 This website was developed to fulfill the requirements of Graded Challenge 2 in Phase 2 of the Hacktiv8 bootcamp and demonstrates my ability to work with version control systems, implement NoSQL databases using MongoDB, utilize TypeScript for type safety, and build a scalable web application using the Next.js framework.
 
-<!-- <img src="./assets/[PROJECT-NAME]-Landing.[ext]" width="1000"> -->
+<img src="./tuff-gaming/public/Screenshot_59.webp" width="1000">
 
 ## Listed Pages
 
@@ -23,12 +24,12 @@ This website was developed to fulfill the requirements of Graded Challenge 2 in 
 - **Product Listing**: Displays a list of available products with brief information.
 - **Product Details**: Shows detailed information about a selected product.
 - **Add to Wishlist**: Lets users save their favorite products to a personal wishlist.
-- **Remove from Wishlis]**: Allows users to remove products from their wishlist.
+- **Remove from Wishlist**: Allows users to remove products from their wishlist.
 - **Search with Debounce:**: Enables users to search products by name efficiently, with a debounce mechanism to minimize API calls.
 - **Infinite Scroll Pagination**: Loads more products automatically as the user scrolls down, enhancing the browsing experience.
 
-<!-- <img src="./assets/[PROJECT-NAME]-Feature1.[ext]" width="1000">
-<img src="./assets/[PROJECT-NAME]-Feature2.[ext]" width="1000"> -->
+<img src="./tuff-gaming/public/Screenshot_61.webp" width="1000">
+<img src="./tuff-gaming/public/Screenshot_62.webp" width="1000">
 
 ## Tech Stack
 
@@ -106,4 +107,3 @@ tuff-gaming/
 - `GET /api/wishlist` - Get current user's wishlist items
 - `POST /api/wishlist` - Add product to user's wishlist
 - `DELETE /api/wishlist/[id]` - Remove product from user's wishlist
-
